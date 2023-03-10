@@ -4,6 +4,7 @@ Python/Resources/__ReadOnly/__OrigIndex.csv
 Python/Resources/Mappings
 Python/Resources/resource.db
 
-Python/Exports/
+Python/Exports/*
+!Python/Exports/DefinitionCounts/
 
 __pycache__/
