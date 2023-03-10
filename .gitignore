@@ -1,0 +1,9 @@
+Python/Resources/__ReadOnly/__ElementDefinitions.csv
+Python/Resources/__ReadOnly/__ValueDefinitions.csv
+Python/Resources/__ReadOnly/__OrigIndex.csv
+Python/Resources/Mappings
+Python/Resources/resource.db
+
+Python/Exports/
+
+__pycache__/

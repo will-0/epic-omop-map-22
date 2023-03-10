@@ -1,0 +1,8 @@
+ID,CUI,value,valid,creation_date,invalid_date
+0,EPIC#EXAMPLECODE1,Example Value 1,True,2022-07-29,
+1,EPIC#EXAMPLECODE1,Example Value 2,True,2022-07-29,
+2,EPIC#EXAMPLECODE1,Example Value 3,True,2022-07-29,
+...
+24,EPIC#EXAMPLECODE2,Example Value 4,True,2022-07-29,
+25,EPIC#EXAMPLECODE2,Example Value 5,True,2022-07-29,
+...
