@@ -1,6 +1,6 @@
 # Resources for UCSD OMOP vocab mapping
 
-The following items need to be present for the code to work:
+The following items need to be present for the code to work, but are not added to the repo due to size/confidentiality restrictions:
 
 * `./resource.db` - This is an sqlite database object, which must contain the OMOP `CONCEPT` table. This table is used for appending concept names, vocabulary IDs, etc, from the OMOP concept ID.
 * `__ReadOnly/__ElementDefinitions.csv` - This table contains the list of elements that are to be investigated in the mapping. It cannot be included in the repo due to EPIC restrictions, but see `__Readonly/__ElementDefinitions_EXAMPLE.csv` for format example
