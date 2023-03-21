@@ -2,10 +2,11 @@
 
 This repository contains the code used for analysis of code mappings from EPIC Kaleidoscope module (ophthalmology) to the OMOP CDM.
 
-## Stata
+## Folders 
+###  /Stata
 
 This contains STATA code for investigating agreement between different graders
 
-## Python
+### /Python
 
 This contains Python code for analyzing the consensus mappings and other agreement metrics. Most information is in the notebook titled `Workspace_analysis_only.ipynb`.
